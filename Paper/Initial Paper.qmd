@@ -1,0 +1,113 @@
+---
+title: "Analyzing Food Safety Compliance in Toronto: Identifying Current Hazards and Challenges"
+subtitle: "Several Factors Affecting Local Food Safety in Toronto"
+author: 
+  - Pengyu Sui
+thanks: "Code and data are available at: https://github.com/simon0202sui/Analyzing-Food-Safety-Compliance-in-Toronto.git."
+date: today
+date-format: long
+abstract: "This study delves into the current landscape of food safety compliance within Toronto, pinpointing specific hazards and challenges that undermine the effectiveness of existing food safety measures. By leveraging a dataset encompassing various food establishments and their inspection outcomes, I employ statistical analyses, including linear regression, to uncover patterns and correlations that signal potential risks in the food service sector. My goal is to highlight areas of concern that may necessitate immediate attention or policy adjustments to enhance food safety protocols. Through a detailed examination of inspection reports, violation types, and frequency, I aim to offer a comprehensive overview of the food safety hazards currently present in Toronto's dining establishments."
+format: pdf
+number-sections: true
+bibliography: references.bib
+---
+
+
+# Introduction
+
+
+In this study, I leverage the official dataset provided by Open Data Toronto [@opendatatoronto] to conduct an in-depth analysis of food safety compliance across the city's dining establishments. Recognized for its comprehensive and accurate reflection of food safety inspections, this dataset offers a valuable resource for identifying current hazards and challenges within the food service industry. My approach involves utilizing R [@R], to meticulously clean and preprocess the dataset, ensuring the reliability and validity of subsequent analyses.
+
+Employing a combination of statistical techniques and modeling, including linear regression, my objective is to unveil patterns and trends that shed light on the underlying factors influencing food safety compliance. This endeavor not only aims to pinpoint specific areas of risk but also to understand the dynamics at play in the regulatory environment of Toronto's food industry. Through rigorous data cleaning and analytical methodologies, I aspire to provide actionable insights that can inform policy adjustments and operational improvements, thereby enhancing the food safety landscape in Toronto.
+
+The use of official Open Data Toronto resources underscores the credibility of my analysis, while the application of R [@R] for data processing and model construction ensures a robust analytical framework. This combination positions my study to make a significant contribution to the ongoing efforts to safeguard public health and maintain high standards of food service across the city. By identifying the current hazards and challenges faced by food establishments in Toronto, I aim to support a more informed and effective approach to managing food safety risks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Data {#sec-data}
+
+
+Talk way more about it. 
+
+
+
+# Model
+
+[Appendix -@sec-model-details].
+
+## Model set-up
+
+
+
+### Model justification
+
+gns, for instance $\theta$.
+
+
+# Results
+
+Our results are summarized in @tbl-modelresults.
+
+
+
+
+
+
+# Discussion
+
+## First discussion point {#sec-first-point}
+
+If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
+
+## Second discussion point
+
+## Third discussion point
+
+## Weaknesses and next steps
+
+Weaknesses and next steps should also be included.
+
+\newpage
+
+\appendix
+
+# Appendix {-}
+
+
+# Additional data details
+
+# Model details {#sec-model-details}
+
+## Posterior predictive check
+
+In @fig-ppcheckandposteriorvsprior-1 we implement a posterior predictive check. This shows...
+
+In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. This shows... 
+
+
+
+## Diagnostics
+
+@fig-stanareyouokay-1 is a trace plot. It shows... This suggests...
+
+@fig-stanareyouokay-2 is a Rhat plot. It shows... This suggests...
+
+
+
+
+\newpage
+
+
+# References
+
