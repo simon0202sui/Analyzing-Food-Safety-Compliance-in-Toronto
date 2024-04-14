@@ -1,0 +1,211 @@
+Establishment Type,Severity,Establishment Status,Min. Inspections Per Year,Outcome
+Restaurant,C - Crucial,Pass,2,Conviction - Fined
+Supermarket,C - Crucial,Pass,2,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Food Store (Convenience/Variety),C - Crucial,Pass,2,Conviction - Fined
+Food Store (Convenience/Variety),M - Minor,Pass,2,Conviction - Fined
+Butcher Shop,M - Minor,Pass,3,Conviction - Fined
+Food Take Out,S - Significant,Pass,2,Pending
+Food Take Out,S - Significant,Pass,3,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,3,Pending
+Restaurant,NA - Not Applicable,Pass,3,Pending
+Serving Kitchen,M - Minor,Pass,3,Pending
+Supermarket,S - Significant,Pass,2,Conviction - Fined
+Supermarket,M - Minor,Pass,2,Conviction - Fined
+Supermarket,M - Minor,Pass,2,Conviction - Fined
+Food Take Out,C - Crucial,Pass,3,Conviction - Fined
+Food Take Out,M - Minor,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Food Store (Convenience/Variety),S - Significant,Pass,1,Conviction - Suspended Sentence
+Food Store (Convenience/Variety),C - Crucial,Pass,1,Conviction - Fined
+Food Take Out,C - Crucial,Pass,3,Conviction - Fined
+Food Take Out,S - Significant,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Bakery,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Food Court Vendor,C - Crucial,Pass,3,Conviction - Fined
+Food Court Vendor,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Secondary School Food Services,NA - Not Applicable,Pass,2,Pending
+Restaurant,C - Crucial,Pass,3,Pending
+Restaurant,M - Minor,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Conviction - Fined
+Food Take Out,M - Minor,Pass,2,Conviction - Fined
+Food Take Out,M - Minor,Pass,2,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,M - Minor,Pass,3,Pending
+Food Processing Plant,C - Crucial,Pass,3,Cancelled
+Food Store (Convenience/Variety),M - Minor,Pass,1,Cancelled
+Restaurant,NA - Not Applicable,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Bakery,S - Significant,Pass,3,Conviction - Fined
+Bakery,S - Significant,Pass,3,Conviction - Fined
+Bakery,S - Significant,Pass,3,Conviction - Fined
+Bakery,S - Significant,Pass,3,Conviction - Fined
+Supermarket,S - Significant,Pass,2,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,M - Minor,Pass,2,Cancelled
+Supermarket,S - Significant,Pass,3,Charges Withdrawn
+Supermarket,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,2,Pending
+Food Court Vendor,S - Significant,Pass,3,Conviction - Fined
+Bakery,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Restaurant,M - Minor,Pass,2,Conviction - Fined
+Food Take Out,C - Crucial,Pass,3,Pending
+Restaurant,M - Minor,Pass,2,Conviction - Fined
+Restaurant,M - Minor,Pass,2,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Food Court Vendor,C - Crucial,Pass,2,Pending
+Bakery,S - Significant,Pass,3,Conviction - Fined
+Bakery,M - Minor,Pass,3,Conviction - Fined
+Bakery,C - Crucial,Pass,3,Conviction - Fined
+Child Care - Food Preparation,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,2,Conviction - Fined
+Food Court Vendor,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,NA - Not Applicable,Pass,3,Pending
+Restaurant,M - Minor,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,NA - Not Applicable,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Food Take Out,C - Crucial,Pass,2,Charges Withdrawn
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,2,Pending
+Bakery,C - Crucial,Pass,2,Cancelled
+Restaurant,M - Minor,Pass,2,Conviction - Fined
+Food Depot,S - Significant,Pass,1,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Supermarket,C - Crucial,Pass,2,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Pending
+Food Court Vendor,C - Crucial,Pass,2,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,3,Cancelled
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Food Take Out,M - Minor,Pass,3,Pending
+Food Take Out,C - Crucial,Pass,3,Pending
+Food Take Out,M - Minor,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,NA - Not Applicable,Pass,2,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,2,Pending
+Retirement Homes(Licensed),M - Minor,Pass,3,Conviction - Fined
+Retirement Homes(Licensed),M - Minor,Pass,3,Conviction - Fined
+Retirement Homes(Licensed),M - Minor,Pass,3,Conviction - Fined
+Food Store (Convenience/Variety),S - Significant,Pass,2,Conviction - Fined
+Supermarket,M - Minor,Pass,2,Conviction - Fined
+Supermarket,M - Minor,Pass,2,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,3,Pending
+Restaurant,M - Minor,Pass,3,Charges Withdrawn
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Charges Withdrawn
+Chartered Cruise Boats,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,M - Minor,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,2,Cancelled
+Bakery,S - Significant,Pass,3,Conviction - Fined
+Bakery,M - Minor,Pass,3,Conviction - Fined
+Bakery,S - Significant,Pass,3,Conviction - Fined
+Bakery,S - Significant,Pass,3,Pending
+Bakery,NA - Not Applicable,Pass,3,Pending
+Cocktail Bar / Beverage Room,NA - Not Applicable,Pass,2,Pending
+Cocktail Bar / Beverage Room,S - Significant,Pass,2,Pending
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Food Processing Plant,M - Minor,Pass,3,Pending
+Food Take Out,NA - Not Applicable,Pass,3,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,3,Cancelled
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Food Take Out,S - Significant,Pass,3,Conviction - Fined
+Restaurant,NA - Not Applicable,Pass,3,Pending
+Food Court Vendor,M - Minor,Pass,3,Conviction - Fined
+Food Court Vendor,M - Minor,Pass,3,Conviction - Fined
+Food Court Vendor,M - Minor,Pass,3,Conviction - Fined
+Food Court Vendor,M - Minor,Pass,3,Conviction - Fined
+Food Court Vendor,M - Minor,Pass,3,Pending
+Food Court Vendor,M - Minor,Pass,3,Pending
+Food Court Vendor,M - Minor,Pass,3,Pending
+Food Court Vendor,S - Significant,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Charges Withdrawn
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Private Club,C - Crucial,Pass,3,Pending
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Pending
+Restaurant,S - Significant,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Pending
+Restaurant,M - Minor,Pass,3,Pending
+Restaurant,NA - Not Applicable,Pass,2,Pending
+Food Take Out,NA - Not Applicable,Pass,3,Pending
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Charges Withdrawn
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Boarding / Lodging Home - Kitchen,S - Significant,Pass,3,Pending
+Boarding / Lodging Home - Kitchen,S - Significant,Pass,3,Pending
+Bakery,C - Crucial,Pass,3,Conviction - Fined
+Food Take Out,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Food Take Out,M - Minor,Pass,2,Conviction - Fined
+Restaurant,C - Crucial,Pass,3,Conviction - Fined
+Restaurant,C - Crucial,Pass,2,Conviction - Fined
+Restaurant,S - Significant,Pass,2,Conviction - Fined
+Restaurant,M - Minor,Pass,2,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Restaurant,S - Significant,Pass,3,Conviction - Fined
+Food Processing Plant,C - Crucial,Pass,3,Pending
+Food Processing Plant,S - Significant,Pass,3,Pending
+Food Processing Plant,S - Significant,Pass,3,Pending
+Food Processing Plant,NA - Not Applicable,Pass,3,Pending
+Food Processing Plant,S - Significant,Pass,3,Pending
+Food Processing Plant,M - Minor,Pass,3,Pending
+Food Take Out,M - Minor,Pass,2,Conviction - Fined
+Supermarket,C - Crucial,Pass,3,Conviction - Fined
+Supermarket,S - Significant,Pass,3,Conviction - Fined
+Supermarket,C - Crucial,Pass,3,Conviction - Fined
+Cafeteria - Public Access,S - Significant,Pass,3,Conviction - Fined
+Cafeteria - Public Access,NA - Not Applicable,Pass,3,Conviction - Fined
