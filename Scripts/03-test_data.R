@@ -12,7 +12,7 @@ library(dplyr)
 library(testthat)
 
 # Load the dataset
-cleaned_data <- read_csv("C:/Users/User/Desktop/Final paper/Data/cleaned_data.csv", show_col_types = FALSE)
+cleaned_data <- read_csv("Data/analysis_data/cleaned_data.csv", show_col_types = FALSE)
 
 #### Testing Phase ####
 
