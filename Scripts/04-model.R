@@ -3,7 +3,7 @@ library(readr)
 library(dplyr)
 
 # Load the dataset
-data <- read_csv("C:/Users/User/Desktop/Final paper/cleaned_data.csv", show_col_types = FALSE)
+data <- read_csv("C:/Users/User/Desktop/Final paper/data/cleaned_data.csv", show_col_types = FALSE)
 
 # Check column names
 colnames(data)
@@ -32,5 +32,5 @@ model <- brm(formula = StatusBinary ~ Establishment_Type + Severity + Min_Inspec
 
 
 # Save the model
-saveRDS(model, file = "C:/Users/User/Desktop/Final paper/model.rds")
+saveRDS(model, file = "C:/Users/User/Desktop/Final paper/model/model.rds")
 
