@@ -8,9 +8,8 @@
 
 #### Workplace setup ####
 library(tidyverse)
-setwd("C:/Users/User/Desktop/Final paper")
 #### Load data ####
-raw_data <- read_csv("Dinesafe.csv", show_col_types = FALSE)
+raw_data <- read_csv("C:/Users/User/Desktop/Final paper/Data/Dinesafe.csv", show_col_types = FALSE)
 
 # Save a New file
 write_csv(raw_data, "raw_data.csv")
