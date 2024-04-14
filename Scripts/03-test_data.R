@@ -12,7 +12,7 @@ library(dplyr)
 library(testthat)
 
 # Load the dataset
-cleaned_data <- read_csv("C:/Users/User/Desktop/Final paper/cleaned_data.csv", show_col_types = FALSE)
+cleaned_data <- read_csv("C:/Users/User/Desktop/Final paper/Data/cleaned_data.csv", show_col_types = FALSE)
 
 #### Testing Phase ####
 
@@ -43,6 +43,10 @@ test_that("Outcomes are Consistent with Statuses", {
 test_that("Inspections Per Year is Within Range", {
   expect_true(all(cleaned_data$`Min. Inspections Per Year` %in% 1:3))
 })
+
+
+
+
 
 
 
