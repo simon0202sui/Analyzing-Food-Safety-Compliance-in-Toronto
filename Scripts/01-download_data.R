@@ -9,7 +9,7 @@
 #### Workplace setup ####
 library(tidyverse)
 #### Load data ####
-raw_data <- read_csv("C:/Users/User/Desktop/Final paper/Data/Dinesafe.csv", show_col_types = FALSE)
+raw_data <- read_csv("Data/raw_data/Dinesafe.csv", show_col_types = FALSE)
 
 # Save a New file
 write_csv(raw_data, "raw_data.csv")
