@@ -9,7 +9,7 @@ library(readr)
 library(dplyr)
 
 # Load the dataset
-data <- read_csv("C:/Users/User/Desktop/Final paper/Data/raw_data.csv", show_col_types = FALSE)
+data <- read_csv("Data/raw_data/raw_data.csv", show_col_types = FALSE)
 
 # Define the valid statuses based on the test results and previous knowledge
 valid_statuses <- c("Pass", "Pending", "Conviction - Fined", "Conviction - Suspended Sentence")
