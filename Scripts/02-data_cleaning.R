@@ -36,5 +36,5 @@ head(cleaned_data)
 summary(cleaned_data)
 
 # Save the cleaned data
-write_csv(cleaned_data, "cleaned_data.csv")
+write_csv(cleaned_data, "Data/analysis_data/cleaned_data.csv")
 
