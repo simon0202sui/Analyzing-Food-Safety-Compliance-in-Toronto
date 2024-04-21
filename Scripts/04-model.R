@@ -50,4 +50,4 @@ coefficients_table <- kable(coefficients)
 coefficients_table
 
 # Save the model
-saveRDS(model, file = "C:/Users/User/Desktop/Food Safety/model/model.rds")
+saveRDS(model, file = "model/model.rds")
