@@ -1,0 +1,218 @@
+Establishment Type,Severity,Establishment Status,Min. Inspections Per Year,Outcome,Inspection Date,Latitude,Longitude
+Restaurant,C - Crucial,Pass,2,Conviction - Fined,2022-06-27,43.76984,-79.37465
+Supermarket,C - Crucial,Pass,2,Conviction - Fined,2022-09-14,43.72423,-79.5091
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2022-09-08,43.70038,-79.42955
+Food Store (Convenience/Variety),C - Crucial,Pass,2,Conviction - Fined,2022-07-15,43.655,-79.35516
+Food Store (Convenience/Variety),M - Minor,Pass,2,Conviction - Fined,2022-07-15,43.655,-79.35516
+Butcher Shop,M - Minor,Pass,3,Conviction - Fined,2023-08-18,43.70436,-79.34982
+Food Take Out,S - Significant,Pass,2,Pending,2023-11-20,43.69846,-79.51223
+Food Take Out,S - Significant,Pass,3,Conviction - Fined,2023-11-29,43.64146,-79.37521
+Restaurant,NA - Not Applicable,Pass,3,Pending,2023-09-22,43.73637,-79.30817
+Restaurant,NA - Not Applicable,Pass,3,Pending,2023-09-27,43.73637,-79.30817
+Serving Kitchen,M - Minor,Pass,3,Pending,2023-09-29,43.73006,-79.43415
+Supermarket,S - Significant,Pass,2,Conviction - Fined,2022-04-22,43.74227,-79.60457
+Supermarket,M - Minor,Pass,2,Conviction - Fined,2022-04-22,43.74227,-79.60457
+Supermarket,M - Minor,Pass,2,Conviction - Fined,2022-04-22,43.74227,-79.60457
+Food Take Out,C - Crucial,Pass,3,Conviction - Fined,2023-11-06,43.80923,-79.26932
+Food Take Out,M - Minor,Pass,3,Conviction - Fined,2023-11-06,43.80923,-79.26932
+Restaurant,M - Minor,Pass,3,Pending,2023-11-16,43.70921,-79.39861
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-07-06,43.68795,-79.34849
+Food Store (Convenience/Variety),S - Significant,Pass,1,Conviction - Suspended Sentence,2022-09-21,43.70041,-79.51789
+Food Store (Convenience/Variety),C - Crucial,Pass,1,Conviction - Fined,2022-09-21,43.70041,-79.51789
+Food Take Out,C - Crucial,Pass,3,Conviction - Fined,2023-06-29,43.73006,-79.43415
+Food Take Out,S - Significant,Pass,3,Conviction - Fined,2023-06-29,43.73006,-79.43415
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-03-22,43.66324,-79.4026
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-11-16,43.71029,-79.39884
+Bakery,C - Crucial,Pass,3,Conviction - Fined,2022-10-25,43.70671,-79.37593
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2022-05-09,43.78984,-79.30234
+Food Court Vendor,C - Crucial,Pass,3,Conviction - Fined,2023-05-25,43.72567,-79.34162
+Food Court Vendor,C - Crucial,Pass,3,Conviction - Fined,2023-11-29,43.72567,-79.34162
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2023-06-27,43.69943,-79.51364
+Secondary School Food Services,NA - Not Applicable,Pass,2,Pending,2024-04-02,43.7101,-79.49606
+Restaurant,C - Crucial,Pass,3,Pending,2023-05-19,43.6805,-79.43021
+Restaurant,M - Minor,Pass,3,Conviction - Fined,2023-06-16,43.75501,-79.34877
+Restaurant,M - Minor,Pass,3,Conviction - Fined,2023-06-16,43.75501,-79.34877
+Restaurant,M - Minor,Pass,3,Conviction - Fined,2023-06-16,43.75501,-79.34877
+Food Take Out,M - Minor,Pass,2,Conviction - Fined,2023-11-02,43.70633,-79.50515
+Food Court Vendor,S - Significant,Conditional Pass,3,Pending,2024-04-12,43.64843,-79.38064
+Food Court Vendor,M - Minor,Conditional Pass,3,Pending,2024-04-12,43.64843,-79.38064
+Food Take Out,M - Minor,Pass,2,Conviction - Fined,2023-11-06,43.70255,-79.4772
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2023-10-11,43.70083,-79.51781
+Restaurant,S - Significant,Pass,3,Pending,2024-02-14,43.69863,-79.4689
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-03-23,43.75431,-79.35123
+Restaurant,M - Minor,Pass,3,Pending,2024-02-07,43.70306,-79.41461
+Restaurant,S - Significant,Pass,3,Pending,2024-02-02,43.80923,-79.26932
+Restaurant,M - Minor,Pass,3,Pending,2024-02-02,43.80923,-79.26932
+Food Processing Plant,C - Crucial,Pass,3,Cancelled,2023-07-19,43.8113,-79.25744
+Food Store (Convenience/Variety),M - Minor,Pass,1,Cancelled,2023-05-25,43.70108,-79.52817
+Restaurant,NA - Not Applicable,Pass,3,Conviction - Fined,2023-05-01,43.7293,-79.43174
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2023-06-08,43.70463,-79.49224
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2022-08-29,43.66548,-79.40888
+Restaurant,S - Significant,Conditional Pass,3,Conviction - Fined,2022-09-15,43.7055,-79.37539
+Restaurant,M - Minor,Conditional Pass,3,Conviction - Fined,2022-09-15,43.7055,-79.37539
+Restaurant,S - Significant,Conditional Pass,3,Conviction - Fined,2023-07-20,43.7055,-79.37539
+Restaurant,S - Significant,Conditional Pass,3,Conviction - Fined,2023-07-20,43.7055,-79.37539
+Restaurant,S - Significant,Conditional Pass,3,Pending,2024-04-05,43.7055,-79.37539
+Restaurant,S - Significant,Pass,3,Pending,2024-03-19,43.67782,-79.34924
+Restaurant,S - Significant,Pass,3,Pending,2024-03-28,43.66586,-79.40802
+Bakery,S - Significant,Pass,3,Conviction - Fined,2023-06-23,43.77947,-79.48073
+Bakery,S - Significant,Pass,3,Conviction - Fined,2023-06-23,43.77947,-79.48073
+Bakery,S - Significant,Pass,3,Conviction - Fined,2023-06-23,43.77947,-79.48073
+Bakery,S - Significant,Pass,3,Conviction - Fined,2023-06-23,43.77947,-79.48073
+Supermarket,S - Significant,Pass,2,Conviction - Fined,2023-08-23,43.75133,-79.59947
+Restaurant,M - Minor,Pass,3,Pending,2024-02-13,43.65743,-79.36518
+Restaurant,S - Significant,Pass,3,Pending,2024-02-13,43.65743,-79.36518
+Restaurant,S - Significant,Pass,3,Pending,2024-02-13,43.65743,-79.36518
+Restaurant,M - Minor,Pass,2,Cancelled,2023-12-04,43.64436,-79.41844
+Supermarket,S - Significant,Pass,3,Charges Withdrawn,2023-08-09,43.69858,-79.39639
+Supermarket,C - Crucial,Pass,3,Conviction - Fined,2023-08-09,43.69858,-79.39639
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-02-06,43.66603,-79.40792
+Restaurant,M - Minor,Pass,2,Pending,2024-01-19,43.73941,-79.23811
+Food Court Vendor,S - Significant,Pass,3,Conviction - Fined,2023-12-01,43.82188,-79.29921
+Bakery,C - Crucial,Pass,3,Conviction - Fined,2023-06-22,43.6676,-79.38591
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2023-03-07,43.70767,-79.47748
+Restaurant,M - Minor,Pass,2,Conviction - Fined,2023-09-19,43.70767,-79.47748
+Food Take Out,C - Crucial,Pass,3,Pending,2024-03-19,43.80659,-79.22201
+Restaurant,M - Minor,Pass,2,Conviction - Fined,2023-06-27,43.74208,-79.51439
+Restaurant,M - Minor,Pass,2,Conviction - Fined,2023-06-27,43.74208,-79.51439
+Restaurant,C - Crucial,Pass,3,Pending,2023-10-02,43.67208,-79.32199
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-10-16,43.71355,-79.3356
+Restaurant,S - Significant,Pass,3,Pending,2023-09-29,43.70555,-79.34626
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-02-27,43.73799,-79.56627
+Restaurant,M - Minor,Pass,3,Conviction - Fined,2023-02-27,43.73799,-79.56627
+Restaurant,M - Minor,Pass,3,Conviction - Fined,2023-02-27,43.73799,-79.56627
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-06-15,43.75429,-79.46854
+Restaurant,M - Minor,Pass,3,Conviction - Fined,2023-06-15,43.75429,-79.46854
+Restaurant,C - Crucial,Pass,3,Pending,2023-08-08,43.64317,-79.42392
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-06-20,43.68812,-79.39299
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-03-24,43.68875,-79.39193
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-03-24,43.68875,-79.39193
+Food Court Vendor,C - Crucial,Pass,2,Pending,2023-10-27,43.67288,-79.47085
+Bakery,S - Significant,Pass,3,Conviction - Fined,2022-10-26,43.68495,-79.52398
+Bakery,M - Minor,Pass,3,Conviction - Fined,2022-10-26,43.68495,-79.52398
+Bakery,C - Crucial,Pass,3,Conviction - Fined,2022-10-26,43.68495,-79.52398
+Child Care - Food Preparation,C - Crucial,Pass,3,Conviction - Fined,2023-08-03,43.72013,-79.44425
+Restaurant,M - Minor,Pass,2,Conviction - Fined,2023-12-06,43.70373,-79.50433
+Food Court Vendor,C - Crucial,Pass,3,Conviction - Fined,2023-10-17,43.72608,-79.45147
+Restaurant,M - Minor,Pass,3,Pending,2023-08-10,43.69094,-79.57553
+Restaurant,S - Significant,Pass,3,Pending,2023-08-10,43.69094,-79.57553
+Restaurant,NA - Not Applicable,Pass,3,Pending,2023-08-10,43.69094,-79.57553
+Restaurant,M - Minor,Pass,3,Pending,2023-08-10,43.69094,-79.57553
+Restaurant,C - Crucial,Pass,3,Pending,2023-08-10,43.69094,-79.57553
+Restaurant,S - Significant,Pass,3,Pending,2023-08-10,43.69094,-79.57553
+Restaurant,S - Significant,Pass,3,Pending,2023-08-10,43.69094,-79.57553
+Restaurant,NA - Not Applicable,Pass,3,Pending,2023-08-14,43.69094,-79.57553
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-11-10,43.70779,-79.34348
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-11-10,43.70779,-79.34348
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-11-10,43.70779,-79.34348
+Food Take Out,C - Crucial,Pass,2,Charges Withdrawn,2022-08-22,43.63501,-79.41119
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-03-08,43.70569,-79.37544
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-06-01,43.72738,-79.43196
+Restaurant,NA - Not Applicable,Pass,3,Conviction - Fined,2023-03-16,43.66569,-79.40788
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-03-16,43.66569,-79.40788
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-03-16,43.66569,-79.40788
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-05-01,43.67764,-79.35018
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-03-15,43.73047,-79.26673
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2023-06-19,43.70017,-79.50994
+Restaurant,NA - Not Applicable,Pass,2,Pending,2023-06-19,43.70017,-79.50994
+Bakery,C - Crucial,Pass,2,Cancelled,2023-08-31,43.76486,-79.28014
+Restaurant,M - Minor,Pass,2,Conviction - Fined,2023-03-21,43.70156,-79.47602
+Food Depot,S - Significant,Pass,1,Conviction - Fined,2022-06-30,43.80933,-79.25205
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2022-12-05,43.67821,-79.44333
+Supermarket,C - Crucial,Pass,2,Conviction - Fined,2023-12-18,43.69819,-79.50288
+Restaurant,S - Significant,Pass,3,Pending,2024-01-09,43.74367,-79.30162
+Food Court Vendor,C - Crucial,Pass,2,Conviction - Fined,2022-06-06,43.63279,-79.55468
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-03-22,43.6632,-79.40226
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-03-22,43.6632,-79.40226
+Restaurant,M - Minor,Pass,3,Conviction - Fined,2023-03-22,43.6632,-79.40226
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-07-18,43.73798,-79.43463
+Restaurant,NA - Not Applicable,Pass,3,Cancelled,2023-07-18,43.73798,-79.43463
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-07-18,43.73798,-79.43463
+Food Take Out,M - Minor,Pass,3,Pending,2023-09-27,43.66187,-79.38304
+Food Take Out,C - Crucial,Pass,3,Pending,2023-09-27,43.66187,-79.38304
+Food Take Out,M - Minor,Pass,3,Pending,2023-09-27,43.66187,-79.38304
+Restaurant,S - Significant,Pass,3,Pending,2023-09-22,43.64488,-79.3917
+Restaurant,S - Significant,Pass,3,Pending,2023-11-20,43.64488,-79.3917
+Restaurant,NA - Not Applicable,Pass,2,Conviction - Fined,2023-05-31,43.73185,-79.40361
+Restaurant,NA - Not Applicable,Pass,2,Pending,2024-01-24,43.70709,-79.39775
+Retirement Homes(Licensed),M - Minor,Pass,3,Conviction - Fined,2024-01-12,43.70716,-79.50431
+Retirement Homes(Licensed),M - Minor,Pass,3,Conviction - Fined,2024-01-12,43.70716,-79.50431
+Retirement Homes(Licensed),M - Minor,Pass,3,Conviction - Fined,2024-01-12,43.70716,-79.50431
+Food Store (Convenience/Variety),S - Significant,Pass,2,Conviction - Fined,2023-09-27,43.75061,-79.58383
+Supermarket,M - Minor,Pass,2,Conviction - Fined,2024-01-05,43.70996,-79.53385
+Supermarket,M - Minor,Pass,2,Conviction - Fined,2024-01-05,43.70996,-79.53385
+Restaurant,NA - Not Applicable,Pass,3,Pending,2024-02-22,43.70825,-79.39305
+Restaurant,M - Minor,Pass,3,Charges Withdrawn,2023-02-09,43.73597,-79.60225
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-02-09,43.73597,-79.60225
+Restaurant,M - Minor,Pass,3,Charges Withdrawn,2023-02-09,43.73597,-79.60225
+Chartered Cruise Boats,C - Crucial,Pass,3,Conviction - Fined,2022-08-30,43.64206,-79.35015
+Restaurant,M - Minor,Pass,3,Pending,2024-02-23,43.71555,-79.49041
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-08-17,43.77421,-79.24126
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-08-17,43.77421,-79.24126
+Restaurant,NA - Not Applicable,Pass,2,Cancelled,2023-05-26,43.64751,-79.42006
+Bakery,S - Significant,Pass,3,Conviction - Fined,2023-04-05,43.70278,-79.47647
+Bakery,M - Minor,Pass,3,Conviction - Fined,2023-06-15,43.70278,-79.47647
+Bakery,S - Significant,Pass,3,Conviction - Fined,2023-06-15,43.70278,-79.47647
+Bakery,S - Significant,Pass,3,Pending,2024-01-31,43.70278,-79.47647
+Bakery,NA - Not Applicable,Pass,3,Pending,2024-01-31,43.70278,-79.47647
+Cocktail Bar / Beverage Room,NA - Not Applicable,Pass,2,Pending,2023-10-11,43.66541,-79.38791
+Cocktail Bar / Beverage Room,S - Significant,Pass,2,Pending,2023-10-11,43.66541,-79.38791
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-05-02,43.6652,-79.38708
+Food Processing Plant,M - Minor,Pass,3,Pending,2023-08-28,43.80702,-79.24427
+Food Take Out,NA - Not Applicable,Pass,3,Conviction - Fined,2023-08-30,43.69769,-79.51031
+Restaurant,NA - Not Applicable,Pass,3,Cancelled,2022-07-11,43.63961,-79.42213
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2022-12-16,43.68964,-79.29427
+Food Take Out,S - Significant,Pass,3,Conviction - Fined,2023-11-30,43.72697,-79.43127
+Restaurant,NA - Not Applicable,Pass,3,Pending,2024-02-01,43.76122,-79.3251
+Food Court Vendor,M - Minor,Pass,3,Conviction - Fined,2023-05-10,43.65413,-79.3911
+Food Court Vendor,M - Minor,Pass,3,Conviction - Fined,2023-05-10,43.65413,-79.3911
+Food Court Vendor,M - Minor,Pass,3,Conviction - Fined,2023-05-10,43.65413,-79.3911
+Food Court Vendor,M - Minor,Pass,3,Conviction - Fined,2023-05-10,43.65413,-79.3911
+Food Court Vendor,M - Minor,Pass,3,Pending,2023-09-14,43.65413,-79.3911
+Food Court Vendor,M - Minor,Pass,3,Pending,2023-09-14,43.65413,-79.3911
+Food Court Vendor,M - Minor,Pass,3,Pending,2023-09-14,43.65413,-79.3911
+Food Court Vendor,S - Significant,Pass,3,Pending,2023-09-14,43.65413,-79.3911
+Restaurant,C - Crucial,Pass,3,Pending,2023-10-04,43.71717,-79.4556
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2022-06-28,43.67176,-79.29295
+Restaurant,C - Crucial,Pass,3,Pending,2023-05-30,43.76095,-79.22396
+Restaurant,S - Significant,Pass,3,Pending,2024-01-25,43.73541,-79.25617
+Restaurant,S - Significant,Pass,3,Charges Withdrawn,2023-04-03,43.73608,-79.30771
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-04-03,43.73608,-79.30771
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-09-28,43.69674,-79.39573
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2023-07-20,43.79616,-79.41916
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2023-07-20,43.79616,-79.41916
+Private Club,C - Crucial,Pass,3,Pending,2024-01-26,43.73975,-79.41906
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2023-06-14,43.67945,-79.43512
+Restaurant,C - Crucial,Pass,3,Pending,2023-11-17,43.70796,-79.45374
+Restaurant,S - Significant,Pass,3,Pending,2023-11-17,43.70796,-79.45374
+Restaurant,C - Crucial,Pass,3,Pending,2023-11-17,43.70796,-79.45374
+Restaurant,M - Minor,Pass,3,Pending,2023-11-17,43.70796,-79.45374
+Restaurant,NA - Not Applicable,Pass,2,Pending,2024-04-11,43.64808,-79.38449
+Food Take Out,NA - Not Applicable,Pass,3,Pending,2023-05-03,43.67543,-79.42325
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2022-07-12,43.73623,-79.42046
+Restaurant,S - Significant,Pass,3,Charges Withdrawn,2023-02-16,43.70767,-79.47748
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-05-08,43.70767,-79.47748
+Boarding / Lodging Home - Kitchen,S - Significant,Pass,3,Pending,2024-02-01,43.63374,-79.42937
+Boarding / Lodging Home - Kitchen,S - Significant,Pass,3,Pending,2024-02-01,43.63374,-79.42937
+Bakery,C - Crucial,Pass,3,Conviction - Fined,2022-11-10,43.64936,-79.42606
+Food Take Out,C - Crucial,Pass,3,Conviction - Fined,2022-07-21,43.64023,-79.43708
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-02-09,43.71583,-79.26218
+Food Take Out,M - Minor,Pass,2,Conviction - Fined,2023-08-15,43.70264,-79.50409
+Restaurant,C - Crucial,Pass,3,Conviction - Fined,2023-07-05,43.68809,-79.39281
+Restaurant,C - Crucial,Pass,2,Conviction - Fined,2022-04-20,43.80374,-79.28682
+Restaurant,S - Significant,Pass,2,Conviction - Fined,2022-04-20,43.80374,-79.28682
+Restaurant,M - Minor,Pass,2,Conviction - Fined,2023-01-03,43.71256,-79.53318
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-01-05,43.71996,-79.51214
+Restaurant,S - Significant,Pass,3,Conviction - Fined,2023-10-18,43.71996,-79.51214
+Food Processing Plant,C - Crucial,Pass,3,Pending,2023-10-05,43.82674,-79.25276
+Food Processing Plant,S - Significant,Pass,3,Pending,2023-10-05,43.82674,-79.25276
+Food Processing Plant,S - Significant,Pass,3,Pending,2023-10-05,43.82674,-79.25276
+Food Processing Plant,NA - Not Applicable,Pass,3,Pending,2023-10-05,43.82674,-79.25276
+Food Processing Plant,S - Significant,Pass,3,Pending,2023-10-05,43.82674,-79.25276
+Food Processing Plant,M - Minor,Pass,3,Pending,2023-10-05,43.82674,-79.25276
+Food Take Out,M - Minor,Pass,2,Conviction - Fined,2023-08-15,43.70264,-79.50409
+Supermarket,C - Crucial,Pass,3,Conviction - Fined,2023-04-28,43.70826,-79.38955
+Supermarket,S - Significant,Pass,3,Conviction - Fined,2023-08-18,43.70826,-79.38955
+Supermarket,C - Crucial,Pass,3,Conviction - Fined,2023-08-18,43.70826,-79.38955
+Cafeteria - Public Access,S - Significant,Pass,3,Conviction - Fined,2023-06-12,43.71355,-79.3356
+Cafeteria - Public Access,NA - Not Applicable,Pass,3,Conviction - Fined,2023-06-12,43.71355,-79.3356
