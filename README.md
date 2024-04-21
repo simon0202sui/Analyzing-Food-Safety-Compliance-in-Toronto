@@ -1,4 +1,4 @@
-#Analyzing Food Safety Compliance in Toronto: Identifying Current Hazards and Challenges
+# Analyzing Food Safety Compliance in Toronto: Identifying Current Hazards and Challenges
 ## Overview
 
 This Repo conducts an in-depth investigation into the current state of food safety compliance in Toronto, pinpointing the present condition of food safety in the city. By utilizing a dataset that includes various dining establishments and their inspection results, the study employs statistical methods for analysis and visualization, including the development of logistic regression models. The goal is to highlight areas requiring immediate attention or policy adjustments through a detailed examination of inspection reports, types of violations, frequencies, dates, and the nature of the violations. The findings suggest that the government needs to increase inspection frequency based on factors such as different seasons, types of food businesses, and the nature of violations to enhance local food safety, which is crucial for the health of every resident in Toronto.
