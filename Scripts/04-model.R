@@ -4,7 +4,7 @@ library(dplyr)
 library(knitr)
 
 # Load the dataset
-data <- read_csv("C:/Users/User/Desktop/Food Safety/Data/analysis_data/cleaned_data.csv", show_col_types = FALSE)
+data <- read_csv("Data/analysis_data/cleaned_data.csv", show_col_types = FALSE)
 
 # Rename columns
 data <- data %>%
