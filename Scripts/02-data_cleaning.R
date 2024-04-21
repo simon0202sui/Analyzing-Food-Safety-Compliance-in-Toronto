@@ -11,8 +11,6 @@ library(dplyr)
 # Load the dataset
 data <- read_csv("C:/Users/User/Desktop/Food Safety/Data/raw_data/raw_data.csv", show_col_types = FALSE)
 
-# Define the valid statuses based on the test results and previous knowledge
-# Make sure to include 'Conditional Pass' if it's a valid status you want to keep
 valid_statuses <- c("Pass", "Conditional Pass", "Pending", "Conviction - Fined", "Conviction - Suspended Sentence")
 
 # Select relevant columns and handle missing data by dropping rows with any missing values
@@ -21,7 +19,6 @@ cleaned_data <- data %>%
   drop_na()
 
 # Convert Establishment Type and Severity to factors as before
-# Additionally, filter out invalid Establishment Status values or correct them
 cleaned_data <- cleaned_data %>%
   mutate(`Establishment Type` = as.factor(`Establishment Type`),
          Severity = as.factor(Severity),
